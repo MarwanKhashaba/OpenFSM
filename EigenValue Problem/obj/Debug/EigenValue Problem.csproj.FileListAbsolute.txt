@@ -1,0 +1,17 @@
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csprojAssemblyReference.cache
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csproj.GenerateResource.cache
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csproj.CoreCompileInputs.cache
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+C:\Users\estshary51\source\repos\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csprojAssemblyReference.cache
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csproj.GenerateResource.cache
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.csproj.CoreCompileInputs.cache
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+G:\PROGRAMMING\AGECS DESIGN STUDIO\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb

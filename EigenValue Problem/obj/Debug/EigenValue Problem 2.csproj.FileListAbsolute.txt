@@ -1,0 +1,20 @@
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csprojAssemblyReference.cache
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csproj.GenerateResource.cache
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csproj.CoreCompileInputs.cache
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+F:\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csprojAssemblyReference.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csproj.GenerateResource.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem 2.csproj.CoreCompileInputs.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb

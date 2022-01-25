@@ -1,0 +1,305 @@
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Marwan Khashaba\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+C:\Users\ARC\Desktop\Eigenvalue (25-01)\EigenValue (3-1-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (10-2-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (23-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\MathNet.Numerics.dll
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+F:\cold formed\Program coding\EigenValue (27-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (28-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (29-4-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (4-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (5-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (13-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csprojAssemblyReference.cache
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+D:\Research\cold formed\Program coding\EigenValue (21-5-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (05-6-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (5-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (11-7-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (17-8-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (07-9-2021) new 832\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (08-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (09-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (10-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (11-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (18-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (19-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (24-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (25-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (29-9-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (15-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (23-10-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.mListComboBox.resources
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
