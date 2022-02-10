@@ -303,3 +303,44 @@ E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Proble
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.NewForm.resources
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CoreCompileInputs.cache
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe.config
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.exe
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\EigenValue Problem.pdb
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Grid.Base.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Shared.Base.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Tools.Base.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Grid.Base.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Shared.Base.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Tools.Base.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.OldForm.resources
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Data.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfInput.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfListView.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Data.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfInput.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfListView.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.DataSource.WinForms.xml

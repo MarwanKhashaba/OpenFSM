@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using EigenValue_Problem.Models;
 
 namespace EigenValue_Problem
 {
