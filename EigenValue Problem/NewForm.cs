@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using EigenValue_Problem.Models;
 using MathNet.Numerics.LinearAlgebra;
@@ -23,11 +24,11 @@ namespace EigenValue_Problem
         Design design = new Design();
         //Springs springs = new Springs(0, 0, 0);
         //Constraints constraints = new Constraints(0, 0, 0, 0);
-        Dictionary<Member,double[,]> globalStiff = new Dictionary<Member,double[,]>();
+        Dictionary<Member, double[,]> globalStiff = new Dictionary<Member, double[,]>();
         private List<Node> Nodes;
         private List<Member> Members;
         private string BoundryCondition;
-        
+
 
         //For Testing
         Vector<double> EigenValues;
@@ -36,8 +37,10 @@ namespace EigenValue_Problem
         {
             InitializeComponent();
 
-            this.ShowSplash();
-            this.splashPanel1.SuspendLayout();
+            //this.ShowSplash();
+            //this.splashPanel1.SuspendLayout();
+
+
 
             //Material concrete25 = new Material(4000, 4000, 0.2, 0.2);
             //Material concrete30 = new Material(5000, 4000, 0.3, 0.3);
@@ -102,7 +105,7 @@ namespace EigenValue_Problem
         }
 
 
-        
+
         //private void MaterialComboBox_SelectedIndexChanged(object sender, EventArgs e)
         //{
         //if (materialComboBox.Text.ToString() == "Concrete 25")
@@ -2968,10 +2971,33 @@ namespace EigenValue_Problem
         //}
 
 
+        protected void RefreshMainInputs()
+        {
+            labelOutMaterial.Text = @"To be Computed..";
+            labelOutB.Text = @"To be Computed..";
+            labelOutH.Text = @"To be Computed..";
+            labelOutD.Text = @"To be Computed..";
+            labelOutR.Text = @"To be Computed..";
+            labelOutT.Text = @"To be Computed..";
+            labelOutW.Text = @"To be Computed..";
+            labelOutS.Text = @"To be Computed..";
+            labelOutBC.Text = @"To be Computed..";
+            labelOutP.Text = @"To be Computed..";
+            labelOutMx.Text = @"To be Computed..";
+            labelOutMy.Text = @"To be Computed..";
 
+            aoutrichTextBox.Text = "";
+            moutrichTextBox.Text = "";
+        }
 
         private void Solve(List<Material> materials = null, List<Element> elems = null)
         {
+            if (!ValidateInputs(materials, elems))
+            {
+                var msg = @"Inputs are not valid!";
+                MessageBox.Show(msg);
+                return;
+            }
             //var cases = GetCases();
 
             if (!IsParametric) //if not clicked on perform parametric study
@@ -3017,21 +3043,19 @@ namespace EigenValue_Problem
 
             if (!IsParametric)
             {
-                materialouttextbox.Text = txt_materialsData.Text;
+                labelOutMaterial.Text = txt_materialsData.Text;
 
-                bouttextBox.Text = bTextBox.Text;
-                houttextbox.Text = hTextBox.Text;
-                douttextbox.Text = dTextBox.Text;
-                routtextbox.Text = rTextBox.Text;
-                touttextbox.Text = tTextBox.Text;
-                wouttextbox.Text = wTextBox.Text;
-                souttextbox.Text = sTextBox.Text;
-
-                bcoutcomboBox.SelectedItem = bcComboBox.SelectedItem;
-
-                PouttextBox.Text = pTextBox.Text;
-                MxouttextBox.Text = MxTextBox.Text;
-                MyouttextBox.Text = MytextBox.Text;
+                labelOutB.Text = bTextBox.Text;
+                labelOutH.Text = hTextBox.Text;
+                labelOutD.Text = dTextBox.Text;
+                labelOutR.Text = rTextBox.Text;
+                labelOutT.Text = tTextBox.Text;
+                labelOutW.Text = wTextBox.Text;
+                labelOutS.Text = sTextBox.Text;
+                labelOutBC.Text = bcComboBox.SelectedItem.ToString();
+                labelOutP.Text = pTextBox.Text;
+                labelOutMx.Text = MxTextBox.Text;
+                labelOutMy.Text = MytextBox.Text;
 
                 aoutrichTextBox.Text = txt_listOfA.Text;
                 moutrichTextBox.Text = txt_listOfM.Text;
@@ -3054,9 +3078,55 @@ namespace EigenValue_Problem
             }
         }
 
-        private void btnsectionmesh_Click(object sender, EventArgs e)
+        private bool ValidateInputs(List<Material> materials = null, List<Element> elems = null)
         {
+            if (!IsParametric) //if not clicked on perform parametric study
+            {
+                return bcComboBox.SelectedItem != null
+                       &&
+                       txt_materialsData.TextLength > 0
+                       &&
+                       //Nodes & Elements
+                       txt_nodeData.TextLength > 0
+                       &&
+                       txt_elementsData.TextLength > 0
+                       &&
+                       //Member Data
+                       txt_listOfA.TextLength > 0
+                       &&
+                       txt_listOfM.TextLength > 0
+                       &&
+                       nTextBox.TextLength > 0
+                       &&
+                       LtextBox.TextLength > 0
+                       &&
+                       //Load Cases
+                       pTextBox.TextLength > 0
+                       &&
+                       MxTextBox.TextLength > 0
+                       &&
+                       MytextBox.TextLength > 0
+                    ;
 
+            }
+
+
+            return parmaterialTextBox.TextLength > 0
+                &&
+                //Nodes & Elements
+                txt_nodeData.TextLength > 0
+                &&
+                txt_elementsData.TextLength > 0
+                &&
+                //Member Data
+                ParametricAtextbox.TextLength > 0
+                &&
+                ParametricMtextbox.TextLength > 0
+                &&
+                ParametricNtextbox.TextLength > 0
+                &&
+                ParametricLtextbox.TextLength > 0
+                ;
         }
 
         private void btnpaint_Click(object sender, EventArgs e)
@@ -3108,5 +3178,54 @@ namespace EigenValue_Problem
         #region Moved
 
         #endregion
+
+        private void btnsectionmesh_Click(object sender, EventArgs e)
+        {
+            //Validate
+            if (sectionComboBox.SelectedIndex < 0
+                || string.IsNullOrEmpty(bTextBox.Text)
+                || string.IsNullOrEmpty(hTextBox.Text)
+                || string.IsNullOrEmpty(dTextBox.Text)
+                || string.IsNullOrEmpty(rTextBox.Text)
+                || string.IsNullOrEmpty(tTextBox.Text)
+                || string.IsNullOrEmpty(wTextBox.Text)
+                || string.IsNullOrEmpty(sTextBox.Text)
+                )
+            {
+                MessageBox.Show(@"You must select section & fill all needed inputs.");
+                return;
+            }
+
+            if ((string)sectionComboBox.SelectedItem == "General") return;
+            Getsectionvalues();
+            MESHSECTION();
+            txt_nodeData.Text = section.sectionfinaltextnode;
+            txt_elementsData.Text = section.sectionfinaltextelement;
+
+            DialogResult dialog = MessageBox.Show(@"Nodes generated! Please proceed to the next stage.", "Ok", MessageBoxButtons.OK);
+            if (dialog == DialogResult.OK)
+            {
+                groupBarDefine.SelectedItem = 2;
+            }
+        }
+
+        private void ValidateCSVNumberFields(object sender, EventArgs e)
+        {
+            Control control = sender as TextBox;
+            if (control == null)
+            {
+                control = sender as RichTextBox;
+            }
+
+            if (control == null)
+            {
+                return;
+            }
+
+            if (Regex.IsMatch(control.Text, "^([0-9,.]*)$")) return;
+
+            MessageBox.Show(@"Input is invalid! you can only enter numbers and commas.", @"Ok", MessageBoxButtons.OK);
+            control.Text = Regex.Replace(control.Text, "(?![0-9,.]).", "");
+        }
     }
 }
