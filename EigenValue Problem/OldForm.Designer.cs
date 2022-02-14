@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title2 = new System.Windows.Forms.DataVisualization.Charting.Title();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(OldForm));
             this.materialLabel = new System.Windows.Forms.Label();
             this.tLabel = new System.Windows.Forms.Label();
@@ -56,7 +56,6 @@
             this.sTextBox = new System.Windows.Forms.TextBox();
             this.slabel = new System.Windows.Forms.Label();
             this.wTextBox = new System.Windows.Forms.TextBox();
-            this.wlabel = new System.Windows.Forms.Label();
             this.rTextBox = new System.Windows.Forms.TextBox();
             this.tTextBox = new System.Windows.Forms.TextBox();
             this.dTextBox = new System.Windows.Forms.TextBox();
@@ -68,7 +67,9 @@
             this.bTextBox = new System.Windows.Forms.TextBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnpaint = new System.Windows.Forms.Button();
             this.groupBox19 = new System.Windows.Forms.GroupBox();
             this.groupBox20 = new System.Windows.Forms.GroupBox();
@@ -185,13 +186,14 @@
             this.btnparametric = new System.Windows.Forms.Button();
             this.tabPage9 = new System.Windows.Forms.TabPage();
             this.button13 = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.wlabel = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox19.SuspendLayout();
             this.groupBox20.SuspendLayout();
             this.tabPage3.SuspendLayout();
@@ -210,8 +212,6 @@
             this.groupBox5.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.tabPage9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // materialLabel
@@ -406,11 +406,11 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.wlabel);
             this.groupBox2.Controls.Add(this.btnsectionmesh);
             this.groupBox2.Controls.Add(this.sTextBox);
             this.groupBox2.Controls.Add(this.slabel);
             this.groupBox2.Controls.Add(this.wTextBox);
-            this.groupBox2.Controls.Add(this.wlabel);
             this.groupBox2.Controls.Add(this.rTextBox);
             this.groupBox2.Controls.Add(this.sectionComboBox);
             this.groupBox2.Controls.Add(this.tTextBox);
@@ -468,15 +468,6 @@
             this.wTextBox.Size = new System.Drawing.Size(74, 24);
             this.wTextBox.TabIndex = 33;
             this.wTextBox.Text = "10";
-            // 
-            // wlabel
-            // 
-            this.wlabel.AutoSize = true;
-            this.wlabel.Location = new System.Drawing.Point(122, 148);
-            this.wlabel.Name = "wlabel";
-            this.wlabel.Size = new System.Drawing.Size(18, 17);
-            this.wlabel.TabIndex = 32;
-            this.wlabel.Text = "w";
             // 
             // rTextBox
             // 
@@ -586,6 +577,17 @@
             this.tabPage1.Text = "File";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::EigenValue_Problem.Properties.Resources._1;
+            this.pictureBox2.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(1351, 666);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureBox2.TabIndex = 0;
+            this.pictureBox2.TabStop = false;
+            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.pictureBox1);
@@ -607,6 +609,16 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Define";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(729, 7);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(575, 517);
+            this.pictureBox1.TabIndex = 40;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
             // 
             // btnpaint
             // 
@@ -750,24 +762,24 @@
             // 
             // signaturecurve
             // 
-            chartArea1.Name = "ChartArea1";
-            this.signaturecurve.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.signaturecurve.Legends.Add(legend1);
+            chartArea2.Name = "ChartArea1";
+            this.signaturecurve.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.signaturecurve.Legends.Add(legend2);
             this.signaturecurve.Location = new System.Drawing.Point(673, 28);
             this.signaturecurve.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.signaturecurve.Name = "signaturecurve";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            this.signaturecurve.Series.Add(series1);
+            series2.ChartArea = "ChartArea1";
+            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.signaturecurve.Series.Add(series2);
             this.signaturecurve.Size = new System.Drawing.Size(624, 482);
             this.signaturecurve.TabIndex = 5;
             this.signaturecurve.Text = "chart1";
-            title1.Name = "Title1";
-            title1.Text = "Signature Curve";
-            this.signaturecurve.Titles.Add(title1);
+            title2.Name = "Title1";
+            title2.Text = "Signature Curve";
+            this.signaturecurve.Titles.Add(title2);
             // 
             // groupBox10
             // 
@@ -1856,26 +1868,14 @@
             this.button13.Text = "Authors and Developers Information";
             this.button13.UseVisualStyleBackColor = true;
             // 
-            // pictureBox2
+            // wlabel
             // 
-            this.pictureBox2.Image = global::EigenValue_Problem.Properties.Resources._1;
-            this.pictureBox2.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(1351, 666);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(729, 7);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(575, 517);
-            this.pictureBox1.TabIndex = 40;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
+            this.wlabel.AutoSize = true;
+            this.wlabel.Location = new System.Drawing.Point(117, 147);
+            this.wlabel.Name = "wlabel";
+            this.wlabel.Size = new System.Drawing.Size(18, 17);
+            this.wlabel.TabIndex = 41;
+            this.wlabel.Text = "w";
             // 
             // OldForm
             // 
@@ -1892,8 +1892,10 @@
             this.groupBox2.PerformLayout();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox19.ResumeLayout(false);
             this.groupBox19.PerformLayout();
             this.groupBox20.ResumeLayout(false);
@@ -1926,8 +1928,6 @@
             this.groupBox6.ResumeLayout(false);
             this.groupBox6.PerformLayout();
             this.tabPage9.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1988,7 +1988,6 @@
         public System.Windows.Forms.TextBox sTextBox;
         private System.Windows.Forms.Label slabel;
         public System.Windows.Forms.TextBox wTextBox;
-        private System.Windows.Forms.Label wlabel;
         public System.Windows.Forms.TextBox rTextBox;
         public System.Windows.Forms.ComboBox parbccomboBox;
         private System.Windows.Forms.Label label9;
@@ -2087,6 +2086,7 @@
         private System.Windows.Forms.RichTextBox ParametricMtextbox;
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.RichTextBox ParametricAtextbox;
+        private System.Windows.Forms.Label wlabel;
     }
 }
 

@@ -117,4 +117,254 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBarParametricStudies.CollapseImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAWUlEQVQoU5WPwQnAMAwDM0I+
+        nd+f7NMFuotqFUMLkUIjODCOzpAGYIt3qBzj6smZoAgriDLnvhKmMvdSyMdQZcYJ3+tR3SdOmD5bfS0w
+        TrICoyQp/EUuPWg3JHU+tJx6RfoAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="groupBarParametricStudies.ExpandImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxMAAAsTAQCanBgAAABYSURBVChTlYzBDcAgDAMzAh/m
+        74d9WIBdXCyZB6qDiiVLIbkjAFx1e9Q2+ixUziWUTCgCP5IVGAICl/QcBcZJt0JPBQdzZwUeBGwwP8oE
+        CzNW+FO7zIt4ASvPRGNndSKjAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="parloadsTextBox.Text" xml:space="preserve">
+    <value>0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1
+0,0,1</value>
+  </data>
+  <data name="groupBarDefine.CollapseImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABISURBVChTlYzBDgAgCEK99P+fTM4tNh1pHVjwAg3A
+        lyTspKEtf3QmJPDPVKj5mAhDORjNQzl4Cg8jGoJhlMqE9eo06CThXbANTbVbLE7w85IAAAAASUVORK5C
+        YII=
+</value>
+  </data>
+  <data name="groupBarDefine.ExpandImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABKSURBVChTlYzREgAQCAR78f+ffGjGIZEedlzrSgCk
+        cOWLGaS0Z/kw82CGVlhLdqbfho8lBopgKVVWx/BRVs9gLznlziEiXHkHUgGv1lssES4LrgAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
 </root>
