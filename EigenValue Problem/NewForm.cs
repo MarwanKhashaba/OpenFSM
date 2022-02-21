@@ -1,13 +1,20 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
+using System.Globalization;
+using System.IO;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using EigenValue_Problem.Models;
 using MathNet.Numerics.LinearAlgebra;
+using Syncfusion.Data.Extensions;
+using Syncfusion.Windows.Forms.Chart;
 using Syncfusion.Windows.Forms.Tools;
 
 namespace EigenValue_Problem
@@ -33,12 +40,23 @@ namespace EigenValue_Problem
         //For Testing
         Vector<double> EigenValues;
 
+
+        //For output naming
+        private string output1stPartPathName;
+        private string outputPathName;
+        private int runs;
+
+        //For signature curve
+        private BindingList<SignatureCurvePoint> signatureCurvePoints;
+
         public NewForm()
         {
+            runs = 0;
+
             InitializeComponent();
 
-            //this.ShowSplash();
-            //this.splashPanel1.SuspendLayout();
+            this.ShowSplash();
+            this.splashPanel1.SuspendLayout();
 
 
 
@@ -54,6 +72,21 @@ namespace EigenValue_Problem
 
         }
 
+        private void SetupOutputFolder()
+        {
+            if (runs < 1)
+            {
+                output1stPartPathName = DateTime.Now.ToString("dd-MM-yyyy h-mm-ss tt");
+            }
+            runs++;
+            outputPathName = Path.Combine("OpenFSM", Environment.GetFolderPath(
+                    Environment.SpecialFolder.MyDocuments), output1stPartPathName, "Run no." + runs);
+            if (!File.Exists(outputPathName))
+            {
+                Directory.CreateDirectory(outputPathName);
+            }
+        }
+
         private void ShowSplash()
         {
             SplashPanel currentPanel = splashPanel1;
@@ -67,7 +100,7 @@ namespace EigenValue_Problem
             design.Pcrd = double.Parse(PcrdtextBox.Text);
             design.PcrG = double.Parse(PcrgtextBox.Text);
 
-            //SolveDesignEquations();
+            SolveDesignEquations();
 
             labelPulLocal.Text = design.Pull.ToString();
             labelPulDistortional.Text = design.Puld.ToString();
@@ -83,7 +116,7 @@ namespace EigenValue_Problem
             design.Mcrd = double.Parse(McrdtextBox.Text);
             design.McrLTB = double.Parse(McrLTBtextBox.Text);
 
-            //SolveDesignEquations();
+            SolveDesignEquations();
 
             labelMulLocal.Text = design.Mull.ToString();
             labelMulDistortional.Text = design.Muld.ToString();
@@ -2414,15 +2447,19 @@ namespace EigenValue_Problem
 
         private void PrintSummary()
         {
+            
             //Elements
             StringBuilder elementBuilder = new StringBuilder();
             StringBuilder elementBuilder2 = new StringBuilder();
 
-            var isNotFirstCase = System.IO.File.Exists("E:\\summary.csv");
+            SetupOutputFolder();
+            string summaryPath = Path.Combine(outputPathName, "summary.csv");
+
+            var isNotFirstCase = File.Exists(summaryPath);
             string[] file = new string[1];
             if (isNotFirstCase)
             {
-                file = System.IO.File.ReadAllLines("E:\\summary.csv");
+                file = File.ReadAllLines(summaryPath);
                 file[0] = file[0] + ",a,m,Min. eigen value,Area";
             }
 
@@ -2447,22 +2484,24 @@ namespace EigenValue_Problem
             if (isNotFirstCase)
             {
                 //Not the first case
-                System.IO.File.WriteAllLines("E:\\summary.csv", file);
+                File.WriteAllLines(summaryPath, file);
                 //elementBuilder.Insert(0, Environment.NewLine);
-                //System.IO.File.AppendAllText("E:\\summary.csv", elementBuilder.ToString());
+                //System.IO.File.AppendAllText(Path.Combine(outputPathName, "summary.csv"), elementBuilder.ToString());
             }
             else
             {
-                System.IO.File.WriteAllText("E:\\summary.csv", elementBuilder.ToString());
+                File.WriteAllText(summaryPath, elementBuilder.ToString());
             }
-            if (System.IO.File.Exists("E:\\summary_of_summary.csv"))
+
+            string summaryOfSummaryPath = Path.Combine(outputPathName, "summary_of_summary.csv");
+            if (File.Exists(summaryOfSummaryPath))
             {
                 elementBuilder2.Insert(0, Environment.NewLine);
-                System.IO.File.AppendAllText("E:\\summary_of_summary.csv", elementBuilder2.ToString());
+                File.AppendAllText(summaryOfSummaryPath, elementBuilder2.ToString());
             }
             else
             {
-                System.IO.File.WriteAllText("E:\\summary_of_summary.csv", elementBuilder2.ToString());
+                File.WriteAllText(summaryOfSummaryPath, elementBuilder2.ToString());
             }
 
         }
@@ -2470,7 +2509,6 @@ namespace EigenValue_Problem
         private void PrintOutput(List<Element> elements)
         {
             PrintSummary();
-            Process.Start("E:\\summary.csv");
             //Elements
             StringBuilder elementBuilder = new StringBuilder();
 
@@ -2497,8 +2535,7 @@ namespace EigenValue_Problem
             {
                 elementBuilder.Append(el.ToString());
             }
-            System.IO.File.WriteAllText("E:\\elements.txt", elementBuilder.ToString());
-            Process.Start("E:\\elements.txt");
+            File.WriteAllText(Path.Combine(outputPathName, "elements.txt"), elementBuilder.ToString());
 
             //Section
             StringBuilder sectionBuilder = new StringBuilder();
@@ -2518,8 +2555,7 @@ namespace EigenValue_Problem
                       "I1" + '\t' + "I2" + '\t' +
                       "PolarTheta" + '\t' + "J" + Environment.NewLine);
             sectionBuilder.Append(section);
-            System.IO.File.WriteAllText("E:\\section.txt", sectionBuilder.ToString());
-            Process.Start("E:\\section.txt");
+            File.WriteAllText(Path.Combine(outputPathName, "section.txt"), sectionBuilder.ToString());
 
             //Node Stresses
             StringBuilder nodeStressBuilder = new StringBuilder();
@@ -2534,8 +2570,7 @@ namespace EigenValue_Problem
             }
 
 
-            System.IO.File.WriteAllText("E:\\nodestress.txt", nodeStressBuilder.ToString());
-            Process.Start("E:\\nodestress.txt");
+            File.WriteAllText(Path.Combine(outputPathName, "nodestress.txt"), nodeStressBuilder.ToString());
 
             //Members
 
@@ -2550,8 +2585,17 @@ namespace EigenValue_Problem
                 MembersBuilder.Append(member.ToString());
             }
 
-            System.IO.File.WriteAllText("E:\\member.txt", MembersBuilder.ToString());
-            Process.Start("E:\\member.txt");
+            File.WriteAllText(Path.Combine(outputPathName, "member.txt"), MembersBuilder.ToString());
+
+            /* Open files
+            Process.Start(Path.Combine(outputPathName, "summary.csv"));
+            Process.Start(Path.Combine(outputPathName, "elements.txt"));
+            Process.Start(Path.Combine(outputPathName, "section.txt"));
+            Process.Start(Path.Combine(outputPathName, "nodestress.txt"));
+            Process.Start(Path.Combine(outputPathName, "member.txt"));
+            */
+            MessageBox.Show(@"Output Files Saved!");
+            Process.Start(outputPathName);
         }
         private void SectionComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -2568,10 +2612,8 @@ namespace EigenValue_Problem
         }
         private void btnparametric_Click(object sender, EventArgs e)
         {
-            {
-                IsParametric = true;
-                performparametric();
-            }
+            IsParametric = true;
+            performparametric();
         }
         public List<double[]> GetCases()
         {
@@ -2607,6 +2649,19 @@ namespace EigenValue_Problem
 
         public void performparametric(List<Material> materials = null, List<Element> elems = null)
         {
+            //Validation
+            if (
+                parbccomboBox.SelectedIndex < 0
+                ||
+                parsectioncombobox.SelectedIndex < 0
+                )
+            {
+                var msg = @"Inputs are not valid! You must select boundary condition & section.";
+                groupBarParametricStudies.SelectedItem = parbccomboBox.SelectedIndex < 0 ? 1 : 2; //Select section of missing data
+                MessageBox.Show(msg);
+                return;
+            }
+
             var cases = GetCases();
             foreach (var caseA in cases)
             {
@@ -2629,7 +2684,7 @@ namespace EigenValue_Problem
 
                 Solve(materials, elems);
             }
-            Process.Start("E:\\summary.csv");
+            Process.Start(Path.Combine(outputPathName, "summary.csv"));
 
 
 
@@ -2986,18 +3041,21 @@ namespace EigenValue_Problem
             labelOutMx.Text = @"To be Computed..";
             labelOutMy.Text = @"To be Computed..";
 
-            aoutrichTextBox.Text = "";
             moutrichTextBox.Text = "";
+            aoutrichTextBox.Text = "";
         }
 
         private void Solve(List<Material> materials = null, List<Element> elems = null)
         {
+            //Validation
             if (!ValidateInputs(materials, elems))
             {
                 var msg = @"Inputs are not valid!";
                 MessageBox.Show(msg);
                 return;
             }
+
+            MessageBox.Show(@"Solving started, note that this can take a couple of minutes, then you will be notified when it is done.");
             //var cases = GetCases();
 
             if (!IsParametric) //if not clicked on perform parametric study
@@ -3058,7 +3116,7 @@ namespace EigenValue_Problem
                 labelOutMy.Text = MytextBox.Text;
 
                 aoutrichTextBox.Text = txt_listOfA.Text;
-                moutrichTextBox.Text = txt_listOfM.Text;
+                moutrichTextBox.Items.AddRange(txt_listOfM.Lines);
 
                 MakeResults();
                 //lamdaoutrichTextBox.Text = member.mineigenvalues.Text;
@@ -3066,16 +3124,55 @@ namespace EigenValue_Problem
 
             // SolveDesignEquations();
 
+
+
+
             if (IsParametric)
             {
                 PrintSummary();
-                //Process.Start("E:\\summary.csv");
+                //Process.Start(Path.Combine(outputPathName, "summary.csv"));
             }
             else
             {
                 //Print output
                 PrintOutput(elems);
+
+                DrawSignatureCurve();
+                //Select analysis tab
+                tabControlMain.SelectedTab = tabPageAnalysis;
+                tabControlMain.BringSelectedTabToView();
             }
+        }
+
+        private void DrawSignatureCurve()
+        {
+            //Draw signature curve
+            var xAxis = txt_listOfA.Lines;
+            var yAxis = lamdaoutrichTextBox.Lines;
+            if (xAxis.Length < 1 || yAxis.Length < 1 || moutrichTextBox.Items.Count < 1)
+            {
+                return;
+            }
+            if (moutrichTextBox.SelectedIndex < 0)
+            {
+                moutrichTextBox.SelectedIndex = 0;
+            }
+            string selectedM = moutrichTextBox.SelectedItem.ToString();
+
+            var pointsbindingList = new BindingList<SignatureCurvePoint>();
+            //BindingList<SignatureCurvePoint> dataSource = new BindingList<SignatureCurvePoint>();
+            var len = Math.Min(xAxis.Length, yAxis.Length);
+            for (int i = 0; i < len; i++)
+            {
+                pointsbindingList.Add(new SignatureCurvePoint()
+                {
+                    A = int.Parse(xAxis[i]),
+                    M = int.Parse(selectedM),
+                    MinEigenValue = Math.Round(double.Parse(yAxis[i]), 2)
+                });
+            }
+
+            signatureCurvePointBindingSource.DataSource = pointsbindingList;
         }
 
         private bool ValidateInputs(List<Material> materials = null, List<Element> elems = null)
@@ -3175,10 +3272,6 @@ namespace EigenValue_Problem
             blackPen.Dispose();
         }
 
-        #region Moved
-
-        #endregion
-
         private void btnsectionmesh_Click(object sender, EventArgs e)
         {
             //Validate
@@ -3192,7 +3285,7 @@ namespace EigenValue_Problem
                 || string.IsNullOrEmpty(sTextBox.Text)
                 )
             {
-                MessageBox.Show(@"You must select section & fill all needed inputs.");
+                MessageBox.Show(@"You must select section & fill all needed inputs [b, d, r, s, h, t & w].");
                 return;
             }
 
@@ -3207,6 +3300,8 @@ namespace EigenValue_Problem
             {
                 groupBarDefine.SelectedItem = 2;
             }
+
+            DrawSection();
         }
 
         private void ValidateCSVNumberFields(object sender, EventArgs e)
@@ -3226,6 +3321,31 @@ namespace EigenValue_Problem
 
             MessageBox.Show(@"Input is invalid! you can only enter numbers and commas.", @"Ok", MessageBoxButtons.OK);
             control.Text = Regex.Replace(control.Text, "(?![0-9,.]).", "");
+        }
+
+        private void RefreshDrawing(object sender, EventArgs e)
+        {
+            DrawSection();
+        }
+
+        private void DrawSection()
+        {
+            try
+            {
+                paintelements.Clear();
+                Nodes = GetNodeValues();
+                GetElementValues();
+                pictureBox1.Refresh();
+            }
+            catch (Exception e)
+            {
+                //
+            }
+        }
+
+        private void moutrichTextBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            DrawSignatureCurve();
         }
     }
 }

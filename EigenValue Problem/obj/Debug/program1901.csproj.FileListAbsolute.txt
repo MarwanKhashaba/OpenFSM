@@ -303,7 +303,6 @@ E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Proble
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.CopyComplete
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.exe
 E:\Research\cold formed\Program coding\EigenValue (29-11-2021)\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue Problem.pdb
-E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.AssemblyReference.cache
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.NewForm.resources
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\EigenValue_Problem.Properties.Resources.resources
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\obj\Debug\program1901.csproj.GenerateResource.cache
@@ -344,3 +343,7 @@ E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfInput.WinForms.xml
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.SfListView.WinForms.xml
 E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Chart.Base.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Chart.Base.xml
+E:\WORK\4-Freelancing\Marwan Khashaba\EigenValue Problem\EigenValue Problem\bin\Debug\Syncfusion.Chart.Windows.xml
