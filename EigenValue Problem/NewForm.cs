@@ -55,8 +55,8 @@ namespace EigenValue_Problem
 
             InitializeComponent();
 
-            this.ShowSplash();
-            this.splashPanel1.SuspendLayout();
+            ShowSplash();
+            splashPanel1.SuspendLayout();
 
 
 

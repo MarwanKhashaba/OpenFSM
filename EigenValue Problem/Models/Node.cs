@@ -14,9 +14,9 @@ namespace EigenValue_Problem.Models
 
         public Node()  //inputs in program 
         {
-            this.ID= 0;
-            this.xcood = 0.0;
-            this.ycood = 0.0;
+            ID= 0;
+            xcood = 0.0;
+            ycood = 0.0;
         }
         public override string ToString()
         {

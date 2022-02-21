@@ -91,10 +91,10 @@ namespace EigenValue_Problem.Models
 
         public Element()  //inputs in program 
         {
-            this.ID = 0;
+            ID = 0;
             //this.node1 = 0;
             //this.node2 = 0;
-            this.t = 0.0;
+            t = 0.0;
         }
 
         

@@ -14,12 +14,12 @@
 
         public Material() //inputs in program 
         {
-            this.ID = 0;
-            this.Ex = 0.0;
-            this.Ey = 0.0;
-            this.Vx = 0.0;
-            this.Vy = 0.0;
-            this.fy = 0.0;
+            ID = 0;
+            Ex = 0.0;
+            Ey = 0.0;
+            Vx = 0.0;
+            Vy = 0.0;
+            fy = 0.0;
         }
 
     }
